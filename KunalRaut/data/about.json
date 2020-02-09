@@ -1,0 +1,24 @@
+{ 
+    "sub": [{
+      "p":"<b>To effectively utilize my skills in a good professional environment and contribute towards the organization’s goals, I am seeking a challenging position within a company that promises rapid expansion and offers good advantages.</b>",
+      "url":"https://www.linkedin.com/in/kunal-raut-544986107",
+      "icon":"fab fa-linkedin-in"
+    },
+    {
+      "url":"https://github.com/",
+      "icon": "fab fa-github"
+    },
+    {
+      "url":"https://twitter.com/",
+      "icon": "fab fa-twitter"
+    },
+    {
+      "url":"https://www.facebook.com/",
+      "icon": "fab fa-facebook-f" 
+    }
+  ],
+  "Fname":"Kunal",
+  "Lname":"Raut",
+  "Email":"rautkunal00@gmail.com",
+  "Address":"Vasind, Thane-421601."
+}

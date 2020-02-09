@@ -1,0 +1,25 @@
+{ 
+    "section": [{
+        "h3":["Bachelor of Enginnering"],
+        "subheading":["Vidyalankar Institute of Technology, Mumbai"],
+        "dept":["Computer Enginnering"],
+        "p":["CGPA: 7.52"] ,
+        "span":["July 2018"]
+
+      },
+      {
+        "h3":["HSC"],
+        "subheading":["Birla College, Kalyan"],
+        "dept":["Science"],
+        "p":["Percentage: 84.00"],
+        "span":["May 2014"]
+      },
+      {
+        "h3":["SSC"],
+        "subheading":["Saraswati Vidyalaya, Vasind"],
+        "dept":[""],
+        "p":["Percentage: 91.72"],
+        "span":["June 2012"]
+      }
+    ]
+  }

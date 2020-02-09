@@ -1,0 +1,25 @@
+{ 
+    "section": [{
+        "h3":["Bachelor of Enginnering"],
+        "subheading":["Vishwatmak Om Gurudev College of Engineering"],
+        "dept":["Information Technology"],
+        "p":["CGPA: 8.15"] ,
+        "span":["July 2019"]
+
+      },
+      {
+        "h3":["Diploma"],
+        "subheading":["S. S.J.P Polytechnic Asangaon, Thane"],
+        "dept":["Information Technology"],
+        "p":["Percentage: 70.94"],
+        "span":["June 2016"]
+      },
+      {
+        "h3":["SSC"],
+        "subheading":["New Ideal English School, Vasind"],
+        "dept":[""],
+        "p":["Percentage: 71.27"],
+        "span":["June 2013"]
+      }
+    ]
+  }

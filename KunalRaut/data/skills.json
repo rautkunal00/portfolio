@@ -1,0 +1,21 @@
+{
+  "section": {
+    "logo": ["fab fa-html5",
+      "fab fa-css3-alt",
+      "fab fa-bootstrap",
+      "fab fa-sass",
+      "fas fa-database",
+      "fab fa-git-alt",
+      "fab fa-github-alt",
+      "fab fa-js-square",
+      "fab fa-node",
+      "fab fa-java",
+      "fab fa-php"
+    ],
+    "specf": ["Mobile-First, Responsive Design",
+      "Cross Browser Testing &amp; Debugging",
+      "Cross Functional Teams",
+      "Agile Development &amp; Scrum"
+    ]
+  }
+}

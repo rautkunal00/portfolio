@@ -1,0 +1,27 @@
+{ 
+    "nav": [{
+        "n":"About",
+        "u":"#About"
+    },
+    {
+        "n":"Experience",
+        "u":"#Experience"
+    },
+    {
+        "n":"Education",
+        "u":"#Education"
+    },
+    {
+        "n":"Skills",
+        "u":"#Skills"
+    },
+    {
+        "n":"Interests",
+        "u":"#Interests"
+    },
+    {
+        "n":"Awards",
+        "u":"#Awards"
+    } 
+  ]
+}
