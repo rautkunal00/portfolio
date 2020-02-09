@@ -5,16 +5,20 @@
       "icon":"fab fa-linkedin-in"
     },
     {
-      "url":"https://github.com/",
+      "url":"https://github.com/rautkunal00",
       "icon": "fab fa-github"
     },
     {
-      "url":"https://twitter.com/",
+      "url":"https://twitter.com/Rautkunal7",
       "icon": "fab fa-twitter"
     },
     {
-      "url":"https://www.facebook.com/",
+      "url":"https://www.facebook.com/kunal.raut.718",
       "icon": "fab fa-facebook-f" 
+    },
+    {
+      "url":"https://www.instagram.com/k.u.n.a.l_r.a.u.t/",
+      "icon": "fab fa-instagram" 
     }
   ],
   "Fname":"Kunal",

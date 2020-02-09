@@ -18,6 +18,7 @@ xhttp.onreadystatechange = function() {
       addIcon += "</div></div></section>";  
 
       document.getElementById("about").innerHTML = addIcon;
+      document.getElementById("uname").innerHTML = response.Fname+" "+response.Lname;
   }
 };
 xhttp.open("GET", "./data/about.json", true);
